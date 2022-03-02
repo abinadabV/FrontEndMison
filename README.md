@@ -1,2 +1,2 @@
 # FrontEndMison
-Misión Front End LaunchX
+Prácticas de la Misión FrontEnd de LaunchX
