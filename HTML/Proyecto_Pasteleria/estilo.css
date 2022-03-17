@@ -1,0 +1,82 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Estilo de header */
+header {
+    background-color: rgb(255, 190, 190);
+    padding: 30px;
+    text-align: center;
+    font-size: 35px;
+    color: rgb(0, 0, 0);
+}
+
+ul{
+    list-style-type: none;
+    padding: 0;
+}
+
+.title{
+    text-align: center;
+}
+
+.menu{
+    padding: 30px;
+    background-color: rgba(255, 190, 190, 0.39);
+    text-align: start;
+}
+
+.gifcontainer{
+    text-align: center;
+    background-color: rgb(31,37,37);
+}
+
+@media (max-width: 1600px) {
+
+    .gif{
+        width: 100%;
+        height: 100%;
+        max-height: 500px;
+    }
+}
+
+.pasteles{
+    padding: 30px;
+    text-align: center;
+}
+
+footer {
+    background-color:  rgb(255, 190, 190);
+    padding: 10px;
+    text-align: center;
+    color:  rgb(0, 0, 0);
+}
+
+.tablaContainer{
+    padding: 20px;
+}
+
+
+.tablaFila {
+    background-color: rgba(253, 224, 224, 0.39);
+    padding: 30px;
+    vertical-align: top;
+    
+}
+
+.tabla{
+    width: 100%;
+}
+
+.inputTable{
+    padding: 10px;
+}
+
+.descripcion{
+    width: 100%;
+    padding: 15px;
+}
+
+.input{
+    width: 100%;
+}
